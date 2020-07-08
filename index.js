@@ -10,7 +10,7 @@ const router = new Router()
 app.use(serve(__dirname + "/web"))
 
 
-app.use(cors);
+// app.use(cors);
 app.use(bodyParser())
 
 router.post('/web/ssr', async ctx => {
