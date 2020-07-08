@@ -20,7 +20,7 @@ router.post('/web/ssr', async ctx => {
 })
 
 router.post('/web/list', async ctx => {
-    ctx.body = [{name:'daw', age: 21}, {name:'gs', age: 22}]
+    ctx.body = [{name:'狒弟', age: 38}, {name:'欣妹', age: 36}]
 })
 
 router.post('/web/author', async ctx => {
