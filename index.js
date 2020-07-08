@@ -24,7 +24,7 @@ router.post('/web/list', async ctx => {
 })
 
 router.post('/web/author', async ctx => {
-    ctx.body = "Daw, HelloWorld!!!!!"
+    ctx.body = "Daw哥拖着欣儿和小狒扬长而来！！"
 })
 
 router.post('/web/info', async ctx => {
