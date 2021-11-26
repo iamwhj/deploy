@@ -1,7 +1,9 @@
-function add(a, b) {
+function addNum(a, b) {
     return a + b
 }
 
-console.log(add(1, 5));
+console.log(addNum(1, 5));
 
 console.log('six');
+
+console.log('lucky');
